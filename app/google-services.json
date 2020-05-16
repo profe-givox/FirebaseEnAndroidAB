@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "368465993801",
+    "firebase_url": "https://misnotificacionesclase.firebaseio.com",
+    "project_id": "misnotificacionesclase",
+    "storage_bucket": "misnotificacionesclase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368465993801:android:d4af21334fb5c099de9f98",
+        "android_client_info": {
+          "package_name": "com.example.firebaseenandroidab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368465993801-rh1el5uloelr4kef1ucjtcfmar32ajdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjoF8Mgn2AAtmQpHbs_Fke9jcFZEO2kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368465993801-rh1el5uloelr4kef1ucjtcfmar32ajdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368465993801:android:0a25f5112a804a01",
+        "android_client_info": {
+          "package_name": "net.ivanvega.misnotificacionesclase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368465993801-8lm74dtt6u5bpdj7rrc4qm6d2n1stmun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ivanvega.misnotificacionesclase",
+            "certificate_hash": "a702add34bea6a0b92ce3d8f096405104800de5c"
+          }
+        },
+        {
+          "client_id": "368465993801-rh1el5uloelr4kef1ucjtcfmar32ajdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjoF8Mgn2AAtmQpHbs_Fke9jcFZEO2kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368465993801-rh1el5uloelr4kef1ucjtcfmar32ajdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
